@@ -15,3 +15,7 @@ Segmented high-value customers, built a Power BI dashboard (13.59M revenue track
 Python Pandas Power BI CSV
 🌍 Languages
 🇮🇷 Farsi (Native)  |  🇬🇧 English (B2)  |  🇮🇹 Italian (B1)
+## 📫 Let's connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Hamidrezaasiyaei-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/Hamidrezaasiyaei)
+[![Email](https://img.shields.io/badge/Email-hamidreza.asiyaeim@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:hamidreza.asiyaeim@gmail.com)
