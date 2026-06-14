@@ -17,5 +17,5 @@ Python Pandas Power BI CSV
 🇮🇷 Farsi (Native)  |  🇬🇧 English (B2)  |  🇮🇹 Italian (B1)
 ## 📫 Let's connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Hamidrezaasiyaei-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/Hamidrezaasiyaei)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Hamidrezaasiyaei-0077B5?style=flat&logo=linkedin)]([https://linkedin.com/in/Hamidrezaasiyaei](https://www.linkedin.com/in/hamidreza-asiyaeimoghadam-883316169?utm_source=share_via&utm_content=profile&utm_medium=member_ios))
 [![Email](https://img.shields.io/badge/Email-hamidreza.asiyaeim@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:hamidreza.asiyaeim@gmail.com)
